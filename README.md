@@ -10,8 +10,8 @@
 |stg_customer|
 |stg_orders  |
 
-- [] Write portfolio README
-- [] Add CI for SQL linting
+- [ ] Write portfolio README
+- [ ] Add CI for SQL linting
 
 ```mermaid
 flowchart LR
