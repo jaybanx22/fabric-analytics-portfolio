@@ -1,0 +1,23 @@
+name: Task
+description: A piece of work for the portfolio
+title: "[Task]: "
+labels: ["triage"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What and why
+      description: What should change, and why it matters
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - SQL models
+        - Python
+        - CI/CD
+        - Docs
+    validations:
+      required: true
