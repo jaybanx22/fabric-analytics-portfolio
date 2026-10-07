@@ -1,2 +1,2 @@
-SELECT order_id 
+SELECT order_id
 FROM raw_orders
