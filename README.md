@@ -1,3 +1,5 @@
+![CI](https://github.com/jaybanx22/fabric-analytics-portfolio/actions/workflows/ci.yml/badge.svg)
+
 - # fabric-analytics-portfolio
 - This project is to provide a practical example to practice using github.
 - I'm using this project to prepare for taking the GitHub Foundations exam GH-900 GitHub Foundations.
